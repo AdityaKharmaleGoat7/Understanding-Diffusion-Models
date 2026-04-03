@@ -12,6 +12,7 @@ The goal is to make every concept in the paper interactive and reproducible math
 
 | Section | Topic | Notebook |
 |---|---|---|
+| # | Appendix | [math_concept](https://github.com/AdityaKharmaleGoat7/Understanding-Diffusion-Models/blob/220208431d76985238afb469fe5d9353f5539325/02_ELBO_VAE_HierarchicalVAE/math_concept.ipynb) |
 | 01 | Introduction: Generative Models | [notebook](01_intro_generative_models/notebook.ipynb) |
 | 02 | ELBO, VAE, and Hierarchical VAE | [In development](https://github.com/AdityaKharmaleGoat7/Understanding-Diffusion-Models/blob/41be5f030d1946bfcd1632192de20c11ca8448f0/02_ELBO_VAE_HierarchicalVAE) | 
 | 03 | Variational Diffusion Models | coming soon |
@@ -19,6 +20,7 @@ The goal is to make every concept in the paper interactive and reproducible math
 | 05 | Three Equivalent Interpretations | coming soon |
 | 06 | Score-based Generative Models | coming soon |
 | 07 | Guidance (Classifier & Classifier-Free) | coming soon |
+
 
 ## Prerequisites
 
